@@ -49,7 +49,7 @@ ollama pull <model>
 
 or
 
-(provided you have huhhingface installed)
+(provided you have huggingface installed)
 
 ```bash
 HF_HUB_CACHE=/opt/nesi/models/huggingface huggingface-cli download meta-llama/Llama-3.2-3B-Instruct
